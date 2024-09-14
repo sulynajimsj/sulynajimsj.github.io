@@ -11,8 +11,9 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(33, 150, 243, 0.8);
   border-radius: 50% !important;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.5); /* More transparent for the outer glow */
 }
 
 .profile-pic img {
@@ -361,7 +362,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(12, 116, 219, 0.3);
   height: 100%;
   left: 0;
   position: absolute;
