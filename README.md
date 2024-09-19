@@ -23,35 +23,40 @@ https://github.com/varadbhogayata/personal-website
 
 # Repository Screenshot
 
-![Activity 1 Screenshot](./path-to-your-screenshot1.png)
+### Deployed Website Screenshot
+![Deployed Website Screenshot](screenshots/theme.png)
+
+### Repository Screenshot
+![Repo Screenshot](screenshots/repoScreenshot.png)
+
 
 ---
 
 # Personal Information
 
 ### Deployed Website Screenshot
-![Deployed Website Screenshot](./path-to-your-website-screenshot1.png)
+![Deployed Website Screenshot](screenshots/about.png)
 
 ---
 
 # Theme color change
 
 ### Deployed Website Screenshot
-![Repo Screenshot](./path-to-your-repo-screenshot2.png)
+![Repo Screenshot](screenshots/theme.png)
 
 ---
 
 # Places travelled
 
 ### Deployed Website Screenshot
-![Repo Screenshot](./path-to-your-repo-screenshot3.png)
+![Repo Screenshot](screenshots/placestravelled.png)
 
 ---
 
 # Top Three Projects
 
 ### Deployed Website Screenshot
-![Repo Screenshot](./path-to-your-repo-screenshot3.png)
+![Repo Screenshot](screenshots/project.png)
 
 ---
 
